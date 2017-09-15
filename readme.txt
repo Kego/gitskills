@@ -8,3 +8,4 @@ the text of readme.
 =======
 在分支dev中为readme.txt添加第二行
 >>>>>>> dev
+在分支dev2中为readme.txt添加一行
