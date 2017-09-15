@@ -1,2 +1,6 @@
 hello,this is git hub!
+<<<<<<< HEAD
 在分支master添加了一行。
+=======
+在分支dev创建的文本行
+>>>>>>> dev
